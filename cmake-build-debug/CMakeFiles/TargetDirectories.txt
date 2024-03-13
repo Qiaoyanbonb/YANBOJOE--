@@ -1,3 +1,0 @@
-D:/Desktop/com-method_code/Jacobi/cmake-build-debug/CMakeFiles/Jacobi.dir
-D:/Desktop/com-method_code/Jacobi/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Desktop/com-method_code/Jacobi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
